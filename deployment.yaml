@@ -14,7 +14,7 @@ spec:
  spec:
  containers:
  - name: java-app
- image: <thilak3012>/java-app:latest
+ image: <thilakvignesh.v2023@vitstudent.ac.in>/java-app:latest
 ---
 apiVersion: v1
 kind: Service
